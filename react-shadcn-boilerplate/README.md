@@ -18,17 +18,16 @@ A lightweight starter template using:
 git clone https://github.com/zthen33/react-shadcn-boilerplate.git
 cd react-shadcn-boilerplate
 
-### 2.Install dependencies
+2.Install dependencies
 
 npm install
 
-
-### 3. Run the dev server
+3. Run the dev server
 
 npm run dev
 
 
-### 4. Folder Structure
+4. Folder Structure
 
 react-shadcn-boilerplate/
 ├── public/
@@ -67,3 +66,4 @@ Button	Styled variant button (cva)
 Input	Styled input with forms plugin
 Utilities like cn() in lib/utils.js help merge Tailwind classes easily.
 
+```
