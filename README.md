@@ -14,21 +14,24 @@ A lightweight starter template using:
 
 ### 1. Clone the repo
 
-```bash
+````bash
 git clone https://github.com/zthen33/react-shadcn-boilerplate.git
 cd react-shadcn-boilerplate
 
-### 2.Install dependencies
+2.Install dependencies
+
+```bash
 
 npm install
 
-
-### 3. Run the dev server
+3. Run the dev server
+```bash
 
 npm run dev
 
 
-### 4. Folder Structure
+4. Folder Structure
+```bash
 
 react-shadcn-boilerplate/
 ├── public/
@@ -47,8 +50,8 @@ react-shadcn-boilerplate/
 ├── vite.config.js
 └── README.md
 
-
-### 🔧 Configuration
+### 🔧
+```bash
 
 + TailwindCSS
 Includes @tailwindcss/forms plugin and custom theme with Inter font and a primary color.
@@ -61,9 +64,11 @@ Includes autoprefixer and tailwindcss.
 
 
 ### 🧩 Components
+```bash
 
 Component	Description
 Button	Styled variant button (cva)
 Input	Styled input with forms plugin
 Utilities like cn() in lib/utils.js help merge Tailwind classes easily.
 
+````
