@@ -32,6 +32,8 @@ Follow these steps to set up the project locally:
    ```
 
 4. **Folder Structure**
+
+```
    react-shadcn-boilerplate/
    ├── public/ # Static assets (e.g., favicon, images)
    ├── src/ # Source code
@@ -67,6 +69,8 @@ The boilerplate includes prebuilt, reusable UI components styled with Tailwind C
 Component Description
 Button Styled button with variants (via cva)
 Input Styled input field with @tailwindcss/forms
+
+```
 
 ```
 
