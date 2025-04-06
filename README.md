@@ -32,22 +32,23 @@ Follow these steps to set up the project locally:
    ```
 
 4. **Folder Structure**
+ ```
    react-shadcn-boilerplate/
-   ├── public/ # Static assets (e.g., favicon, images)
-   ├── src/ # Source code
-   │ ├── components/ # Reusable components
-   │ │ └── ui/ # Shadcn-style UI components
-   │ │ ├── button.jsx # Button component
-   │ │ └── input.jsx # Input component
-   │ ├── lib/ # Utility functions
-   │ │ └── utils.js # Tailwind class merging utilities (e.g., cn())
-   │ ├── App.jsx # Main app component
-   │ ├── index.css # Global styles
-   │ └── main.jsx # Entry point
-   ├── postcss.config.js # PostCSS configuration
-   ├── tailwind.config.js # Tailwind CSS configuration
-   ├── vite.config.js # Vite configuration
-   └── README.md # Project documentation (this file)
+├── public/               # Static assets (e.g., favicon, images)
+├── src/                  # Source code
+│   ├── components/       # Reusable components
+│   │   └── ui/           # Shadcn-style UI components
+│   │       ├── button.jsx  # Button component
+│   │       └── input.jsx   # Input component
+│   ├── lib/              # Utility functions
+│   │   └── utils.js      # Tailwind class merging utilities (e.g., cn())
+│   ├── App.jsx           # Main app component
+│   ├── index.css         # Global styles
+│   └── main.jsx          # Entry point
+├── postcss.config.js     # PostCSS configuration
+├── tailwind.config.js    # Tailwind CSS configuration
+├── vite.config.js        # Vite configuration
+└── README.md             # Project documentation (this file)
 
 **🔧 Configuration**
 
