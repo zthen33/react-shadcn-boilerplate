@@ -32,6 +32,7 @@ Follow these steps to set up the project locally:
    ```
 
 4. **Folder Structure**
+ ```
    react-shadcn-boilerplate/
 ├── public/               # Static assets (e.g., favicon, images)
 ├── src/                  # Source code
